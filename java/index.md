@@ -22,3 +22,11 @@
 - `==` vs `equals()`
 - `static` vs `Non-static`
 - `final` 키워드
+
+### [Section 3](section3.md)
+
+- 직렬화(Serialization), 역직렬화(Deserialization)
+- JVM
+- Garbage Collection
+- Java Multi-Thread
+- Blocking vs Non-blocking (sync/async)
